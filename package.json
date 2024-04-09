@@ -1,0 +1,16 @@
+{
+  "name": "discord-countdown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "borrageiros",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.0"
+  }
+}
